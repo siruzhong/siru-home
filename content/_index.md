@@ -3,7 +3,6 @@ title: ✍️ Siru's Home
 type: wowchemycms
 private: true
 outputs:
-  - wowchemycms_config
   - HTML
 date: 2022-09-24
 toc: true
