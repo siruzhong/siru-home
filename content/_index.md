@@ -1,9 +1,7 @@
 ---
 title: ✍️ Siru's Home
-type: wowchemycms
+type: landing
 private: true
-outputs:
-  - HTML
 date: 2022-09-24
 toc: true
 
