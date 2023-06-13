@@ -9,16 +9,16 @@ appearance:
   theme_day: minimal
   theme_night: minimal
   font: minimal
-  font_size: M
+  font_size: L
 
 # SEO
 
 marketing:
   seo:
-    site_type: Project
+    site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo notes theme powered by Wowchemy website builder.'
+    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
     twitter: 'wowchemy'
   analytics:
     google_analytics: ''
@@ -31,13 +31,15 @@ marketing:
 
 header:
   navbar:
-    enable: false
+    enable: true
     align: l
     show_logo: true
     show_language: false
     show_day_night: true
     show_search: true
     highlight_active_link: true
+
+# Site footer
 
 footer:
   copyright:
@@ -53,6 +55,7 @@ footer:
 locale:
   date_format: 'Jan 2, 2006'
   time_format: '3:04 PM'
+  address_format: en-us
 
 # Site features
 
@@ -65,9 +68,12 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/wowchemy/hugo-second-brain-theme'
+    url: 'https://github.com/<username>/<repository>'
     content_dir: content
     branch: main
+  avatar:
+    gravatar: false
+    shape: circle
   comment:
     provider: ''
     disqus:
@@ -87,3 +93,22 @@ features:
       api_key: ''
       index_name: ''
       show_logo: false
+  map:
+    provider: ''
+    api_key: ''
+    zoom: 15
+
+# Extensions
+
+extensions:
+  cms:
+    branch: main
+    local_backend: false
+  academicons:
+    enable: true
+
+# Security
+
+security:
+  # Allow frame for embedding speaker notes in slides
+  allow_frame: true
