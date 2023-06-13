@@ -1,26 +1,20 @@
 ---
-title: ✍️ Second Brain
+title: ✍️ Siru's Home
+type: landing
 date: 2022-09-24
-toc: false
+toc: true
 
 image:
   filename: covers/nasa-Q1p7bh3SHj8-unsplash.jpg
   caption: NASA
 
-# Your landing page sections - add as many different content blocks as you like
 sections:
-  - block: markdown
-    id: section-1
+  - block: about.biography
+    id: about
     content:
-      title: Section 1
-      subtitle: A subtitle
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
-  - block: markdown
-    id: section-2
-    content:
-      title: Section 2
-      subtitle: A subtitle
-      text: Add your Section 2 content here...
+      title: About Me
+      # Choose a user profile to display (a folder name within `content/authors/`)
+      username: admin
 ---
 #### 👋 Hi, I’m @siruzhong
 
