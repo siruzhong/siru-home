@@ -7,13 +7,13 @@ image:
   filename: covers/nasa-Q1p7bh3SHj8-unsplash.jpg
   caption: NASA
 
-# sections:
-#   - block: about.biography
-#     id: about
-#     content:
-#       title: About Me
-#       # Choose a user profile to display (a folder name within `content/authors/`)
-#       username: admin
+sections:
+  - block: about.biography
+    id: about
+    content:
+      title: About Me
+      # Choose a user profile to display (a folder name within `content/authors/`)
+      username: admin
 ---
 #### 👋 Hi, I’m @siruzhong
 
