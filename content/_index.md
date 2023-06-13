@@ -1,7 +1,7 @@
 ---
 title: ✍️ Siru's Home
 date: 2022-09-24
-toc: false
+type: landing
 
 image:
   filename: covers/nasa-Q1p7bh3SHj8-unsplash.jpg
