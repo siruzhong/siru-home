@@ -1,6 +1,10 @@
 ---
 title: ✍️ Siru's Home
-type: landing
+type: wowchemycms
+private: true
+outputs:
+  - wowchemycms_config
+  - HTML
 date: 2022-09-24
 toc: true
 
@@ -8,13 +12,13 @@ image:
   filename: covers/nasa-Q1p7bh3SHj8-unsplash.jpg
   caption: NASA
 
-sections:
-  - block: about.biography
-    id: about
-    content:
-      title: About Me
-      # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
+# sections:
+#   - block: about.biography
+#     id: about
+#     content:
+#       title: About Me
+#       # Choose a user profile to display (a folder name within `content/authors/`)
+#       username: admin
 ---
 #### 👋 Hi, I’m @siruzhong
 
