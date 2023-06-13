@@ -3,9 +3,9 @@ title: ✍️ Siru's Home
 date: 2022-09-24
 type: landing
 
-image:
-  filename: covers/nasa-Q1p7bh3SHj8-unsplash.jpg
-  caption: NASA
+# image:
+#   filename: covers/nasa-Q1p7bh3SHj8-unsplash.jpg
+#   caption: NASA
 
 sections:
   - block: about.biography
