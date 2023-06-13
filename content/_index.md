@@ -7,16 +7,11 @@ image:
   filename: covers/nasa-Q1p7bh3SHj8-unsplash.jpg
   caption: NASA
 ---
+#### 👋 Hi, I’m @siruzhong
 
-Welcome to the _Second Brain_ template!
+Hi guys 👀, I am siruzhong, a post-00s background R&D engineer 🌱. I am currently working in Cloud IDE team of Tencent PCG business group, engaged in cloud research and development、event bus、DevOps and engineering efficiency. I am very happy to learn and make progress with you here 💞️.
 
-The **Second Brain** starter template empowers you to easily create **personal notes** and **knowledge bases** in a future-proof way.
-
-- It is your second brain 🧠, stored in future-proof Markdown files 
-- Supports audio, video, images, math, code, [Mermaid](https://mermaid.live/) diagrams, and [much more](https://wowchemy.com/docs/content/writing-markdown-latex/)
-- Edit your notes online in GitHub, or any Git-connected Markdown app such as [Obsidian](https://obsidian.md/) or [Visual Studio Code](https://vscode.dev/)
-
-```markmap {height="200px"}
+```markmap
 - Second Brain
   - **powerful** knowledge base
   - **easy**: just plain text Markdown files
