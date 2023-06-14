@@ -14,7 +14,7 @@ sections:
   - block: features
     id: features
     content:
-      title: Skills
+      title: ✊ My Skills
       items:
         - name: Computer Basics
           description: |2-
@@ -58,7 +58,7 @@ sections:
           icon_pack: fas
   - block: markdown
     content:
-      title: Gallery
+      title: 🏖️ Gallery
       subtitle: ""
       text: |-
         {{< gallery album="siru" >}}
@@ -125,10 +125,10 @@ sections:
     design:
       columns: "1"
   - block: accomplishments
-    id: accomplishments
+    id: 🏅 accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: "Accomplish&shy;ments"
+      title: Accomplishments
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
