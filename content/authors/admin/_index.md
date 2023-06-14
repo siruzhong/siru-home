@@ -40,7 +40,7 @@ education:
     - course: Research Assistant
       institution: HKUST(GZ)
       year: 2022.5~today
-    - course: Backend Development Engineer
+    - course: RD Engineer
       institution: Tencent(SZ)
       year: 2022.7~2023.5
     - course: Summer Intern
