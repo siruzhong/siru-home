@@ -147,7 +147,59 @@ sections:
               The journey I embarked upon was marked by my successful navigation through two rigorous rounds of screening, ultimately culminating in my participation in the defense and evaluation of graduation design projects at both the departmental and university levels. The recognition and accolades bestowed upon me by the esteemed judging panel further affirm the significance and excellence of my project. It is truly humbling to be one of the select few, as the Excellent Graduation Design Award is granted to only two outstanding students among a cohort of 100.
           organization: HFUT
           organization_url: http://www.hfut.edu.cn/
-          title: HFUT 2022 Outstanding undergraduate Graduation Project
+          title: HFUT Outstanding undergraduate Graduation Project
+          url: ""
+        - certificate_url: https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2023-06-14-074554.jpg
+          date_end: ""
+          date_start: "2021-05-01"
+          description: |2-
+              The National English Competition for College Students (NECCS) is widely recognized as the most comprehensive and inclusive nationwide competition in China, dedicated to evaluating the comprehensive English abilities of college students. It is a source of great pride for me to have achieved the distinguished honor of winning the third prize in this prestigious competition.
+              
+              Participating in NECCS was truly transformative, enabling me to make significant strides in improving my English proficiency across various areas such as reading, writing, listening, and more. This invaluable experience has provided me with a strong foundation to pursue further growth in my English studies and future endeavors.
+          organization: TEFL China
+          organization_url: http://www.chinaneccs.cn/
+          title: National English Competition for College Students Third Prize
+          url: ""
+        - certificate_url: https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2023-06-14-074858.jpg
+          date_end: ""
+          date_start: "2020-10-01"
+          description: |2-
+              The CSDN "GEEK+" Technical Original Blogger Contest is a highly esteemed nationwide competition that attracts participants from around the world, including talented bloggers within the CSDN community. It serves as a platform to recognize and celebrate outstanding bloggers who excel in creating technical content. The evaluation process encompasses various criteria, such as the number of original articles, readership, engagement metrics, account activity, and the depth of technical expertise demonstrated in the work.
+              
+              I am deeply honored to have been selected as one of the top 30 bloggers and awarded the first prize in this prestigious contest. This achievement speaks to my unwavering dedication to delivering high-quality content and engaging with a diverse readership. It fuels my motivation to continue sharing valuable insights and making meaningful contributions to the wider technical community. This national recognition further reinforces my commitment to continuous improvement and inspires me to strive for excellence in all my blogging endeavors.
+              
+              I am delighted to share that my CSDN blog has experienced remarkable growth and success. With over 30,000 dedicated followers, I am grateful for their continued support, which attests to the value and relevance of the content I provide. Furthermore, the significant number of visits, totaling an impressive 870,000, is a testament to the widespread impact of my articles. The fact that my work has been favorited over 20,000 times signifies the appreciation and recognition it has garnered from readers.
+              
+              These accomplishments encourage me to push the boundaries of my knowledge and expertise, delivering even more valuable and insightful content. I remain committed to engaging with the CSDN community and contributing to its vibrant ecosystem of technical knowledge-sharing.
+          organization: CSDN
+          organization_url: https://www.csdn.net/
+          title: First prize of CSDN "GEEK+" technical original Blogger Contest
+          url: ""
+        - certificate_url: https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2023-06-14-075202.jpg
+          date_end: ""
+          date_start: "2020-08-01"
+          description: |2-
+              The HFUT Robot Competition featured a challenging 2D Project Team event, in which I actively participated. The competition revolved around utilizing the soccerServer platform, designed for Linux, and involved developing a team capable of playing soccer. Our objective was to enhance the provided C++ code, which initially only allowed for kicking in a single direction, by incorporating advanced techniques and strategies.
+              
+              In the competition, I focused on expanding the codebase and implementing various kicking techniques, refining the strength and angle of passes and shots, and devising player strategies based on different positions. Through collaborative efforts and countless hours of dedication, our team successfully transformed the basic team into a formidable force ready to compete against other teams.
+              
+              I am thrilled to share that our hard work and innovation paid off, as our team was awarded the Second Prize in the competition. This recognition is a testament to our collective effort and highlights the progress we made in advancing our skills in robotics and gameplay strategy. It was a fulfilling experience that not only deepened my understanding of the field but also fostered teamwork and problem-solving abilities.
+          organization: HFUT
+          organization_url: http://www.hfut.edu.cn/
+          title: HFUT Robot Competition 2D Project Team Second Prize
+          url: ""
+        - certificate_url: https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2023-06-14-075340.png
+          date_end: ""
+          date_start: "2020-08-01"
+          description: |2-
+              Throughout my four years at Hefei University of Technology, I have been fortunate to receive the Progress Scholarship twice and the Third-class Scholarship once. These awards recognize my continuous academic improvement and growth. From my first year to my final year, I have consistently strived to enhance my academic performance.
+              
+              I am proud to share that I ranked 18th out of 100 students in my major, highlighting my dedication and hard work in achieving academic excellence. This accomplishment is a testament to my perseverance, commitment to self-improvement, and relentless pursuit of knowledge.
+              
+              I am grateful for the opportunities and support provided by Hefei University of Technology, as well as the recognition bestowed upon me through these scholarships. They serve as a reminder that hard work, determination, and a growth mindset are essential factors in achieving success.
+          organization: HFUT
+          organization_url: http://www.hfut.edu.cn/
+          title: Hefei University of Technology Scholarship
           url: ""
     design:
       columns: "1"
