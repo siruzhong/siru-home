@@ -29,21 +29,25 @@ interests:
   - Artificial Intelligence
   - Data Science
   - Cloud Native
+  - Distributed Technology
+  - Web Development
+  - DataBase
+  - Software & Tools
 
 # Education to show in About widget
 education:
   courses:
     - course: Research Assistant
-      institution: Hong Kong University of Science and Technology (Guangzhou)
+      institution: HKUST(GZ)
       year: 2022.5~today
-    - course: Background R&D Engineer
-      institution: Tencent (ShenZhen)
+    - course: Backend Development Engineer
+      institution: Tencent(SZ)
       year: 2022.7~2023.5
     - course: Summer Intern
-      institution: Tencent (Beijing)
+      institution: Tencent(BJ)
       year: 2021.6~2022.9
-    - course: Bachelor of Engineering in iot Engineering
-      institution: Hefei University of Technology
+    - course: B.E. IoT Engineering
+      institution: HFUT
       year: 2018.9~2022.7
 
 # Social/Academic Networking
