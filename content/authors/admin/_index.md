@@ -81,5 +81,10 @@ email: ''
 highlight_name: true
 ---
 
-👋 Hi, I’m @siruzhong
-Hi guys 👀, I am siruzhong, a post-00s background R&D engineer 🌱. I am currently working in Cloud IDE team of Tencent PCG business group, engaged in cloud research and development、event bus、DevOps and engineering efficiency. I am very happy to learn and make progress with you here 💞️.
+👋 Hi everyone, I'm siruzhong, a former Backend RD Engineer at Tencent. I started my journey with Tencent as a summer intern during my junior year, and after successfully completing the internship, I was offered a special full-time position. 🎉 Upon graduating from my undergraduate program, I officially joined Tencent and worked there for one year. 💼
+
+During my time at Tencent, I was involved in various projects related to CloudDev, EventBus, DevOps, and Engineering Efficiency. As a Backend RD Engineer, I focused on developing and optimizing cloud development tools, implementing efficient event-driven communication systems, and enhancing engineering productivity. 💪
+
+Currently, I am working as a research assistant at the Hong Kong University of Science and Technology. 🎓 My research is centered around the fields of spatiotemporal data science, artificial intelligence, intelligent transportation, and smart cities. Being a part of the research team at HKUST allows me to further explore these areas and contribute to the advancement of knowledge. 🌍
+
+I'm excited to continue my journey of learning and growth, and I'm looking forward to exchanging insights and knowledge with all of you here. If you have any questions or specific topics you'd like to discuss, please feel free to let me know! 🤗💡
