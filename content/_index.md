@@ -31,6 +31,38 @@ sections:
               - **Interest Driven**: Possess a strong self-learning ability, dare to step out of the comfort zone, and continue to learn new domain knowledge. Received positive feedback in Tencent's performance review in the second half of 2022.
           icon: chart-line
           icon_pack: fas
+        - name: Soft Skills
+          description: |2-
+              - **Document Capability**: Able to produce a variety of types of documents, including technical, schemes, meetings, etc. Proficient in using flowcharts, mind maps, and AI-assisted tools to enrich and optimize documents.
+              - **Practical Leadership**: Served as a team leader in Tencent's graduate recruitment training and won the excellent student. Also, as the host of the central weekly meeting, able to organize and prepare materials across locations for presentations.
+              - **Self-Media Operation Capability**: Enjoy sharing, have successfully operated platforms like CSDN blog platform, personal website, WeChat Public Account, Bilibili, and accumulated a certain number of fans and high reading volume.
+              - **Interest Driven**: Possess a strong self-learning ability, dare to step out of the comfort zone, and continue to learn new domain knowledge. Received positive feedback in Tencent's performance review in the second half of 2022.
+          icon: chart-line
+          icon_pack: fas
+        - name: Soft Skills
+          description: |2-
+              - **Document Capability**: Able to produce a variety of types of documents, including technical, schemes, meetings, etc. Proficient in using flowcharts, mind maps, and AI-assisted tools to enrich and optimize documents.
+              - **Practical Leadership**: Served as a team leader in Tencent's graduate recruitment training and won the excellent student. Also, as the host of the central weekly meeting, able to organize and prepare materials across locations for presentations.
+              - **Self-Media Operation Capability**: Enjoy sharing, have successfully operated platforms like CSDN blog platform, personal website, WeChat Public Account, Bilibili, and accumulated a certain number of fans and high reading volume.
+              - **Interest Driven**: Possess a strong self-learning ability, dare to step out of the comfort zone, and continue to learn new domain knowledge. Received positive feedback in Tencent's performance review in the second half of 2022.
+          icon: chart-line
+          icon_pack: fas
+        - name: Soft Skills
+          description: |2-
+              - **Document Capability**: Able to produce a variety of types of documents, including technical, schemes, meetings, etc. Proficient in using flowcharts, mind maps, and AI-assisted tools to enrich and optimize documents.
+              - **Practical Leadership**: Served as a team leader in Tencent's graduate recruitment training and won the excellent student. Also, as the host of the central weekly meeting, able to organize and prepare materials across locations for presentations.
+              - **Self-Media Operation Capability**: Enjoy sharing, have successfully operated platforms like CSDN blog platform, personal website, WeChat Public Account, Bilibili, and accumulated a certain number of fans and high reading volume.
+              - **Interest Driven**: Possess a strong self-learning ability, dare to step out of the comfort zone, and continue to learn new domain knowledge. Received positive feedback in Tencent's performance review in the second half of 2022.
+          icon: chart-line
+          icon_pack: fas
+        - name: Soft Skills
+          description: |2-
+              - **Document Capability**: Able to produce a variety of types of documents, including technical, schemes, meetings, etc. Proficient in using flowcharts, mind maps, and AI-assisted tools to enrich and optimize documents.
+              - **Practical Leadership**: Served as a team leader in Tencent's graduate recruitment training and won the excellent student. Also, as the host of the central weekly meeting, able to organize and prepare materials across locations for presentations.
+              - **Self-Media Operation Capability**: Enjoy sharing, have successfully operated platforms like CSDN blog platform, personal website, WeChat Public Account, Bilibili, and accumulated a certain number of fans and high reading volume.
+              - **Interest Driven**: Possess a strong self-learning ability, dare to step out of the comfort zone, and continue to learn new domain knowledge. Received positive feedback in Tencent's performance review in the second half of 2022.
+          icon: chart-line
+          icon_pack: fas
   - block: experience
     id: works
     content:
