@@ -150,7 +150,7 @@ sections:
           title: HFUT 2022 Outstanding undergraduate Graduation Project
           url: ""
     design:
-      columns: "2"
+      columns: "1"
   - block: collection
     id: posts
     content:
