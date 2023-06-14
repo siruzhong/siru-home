@@ -291,7 +291,7 @@ sections:
       title: Gallery
       subtitle: ""
       text: |-
-        {{< gallery album="demo" >}}
+        {{< gallery album="siru" >}}
     design:
       columns: "1"
   - block: collection
