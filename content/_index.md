@@ -12,56 +12,49 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: features
+    id: features
     content:
       title: Skills
       items:
-        - name: Hard Skills
+        - name: Computer Basics
           description: |2-
-              - **Computer Basics**: Proficient in the basic knowledge of computer science, including Linux operating system, computer network, data structure, operating system, database, and other fields.
-              - **Full-Stack Development**: Proficient in a variety of mainstream languages including Java, Go, Python, Shell, and familiar with front-end development technologies, including HTML, CSS, JavaScript, Vue, etc. Meanwhile, master the use and basic principles of various databases, caches, and message middleware, and capable of developing with mainstream backend/microservices frameworks. In addition, good at writing unit tests, conducting Code Review, and building CI/CD pipelines.
-              - **Corporate Experience**: Comprehensive knowledge and practical experience of enterprise-level development processes, mastering the use and basic principles of a series of tool platforms including product research collaboration, version control, telemetry monitoring, pipelines, container publishing, service governance, and intelligent gateway.
-              - **Domain Knowledge**: Understand the cloud-native technologies such as engineering efficiency, DevOps, container orchestration, and observability, and proficient in popular technologies such as Kubernetes and Docker.
+              Proficient in the basic knowledge of computer science, including Linux operating system, computer network, data structure, operating system, database, and other fields.
+          icon: computer
+          icon_pack: fas
+        - name: Full-Stack Development
+          description: |2-
+              Proficient in a variety of mainstream languages including Java, Go, Python, Shell, and familiar with front-end development technologies, including HTML, CSS, JavaScript, Vue, etc. Meanwhile, master the use and basic principles of various databases, caches, and message middleware, and capable of developing with mainstream backend/microservices frameworks. In addition, good at writing unit tests, conducting Code Review, and building CI/CD pipelines.
           icon: camera-retro
           icon_pack: fas
-        - name: Soft Skills
+        - name: Corporate Experience
           description: |2-
-              - **Document Capability**: Able to produce a variety of types of documents, including technical, schemes, meetings, etc. Proficient in using flowcharts, mind maps, and AI-assisted tools to enrich and optimize documents.
-              - **Practical Leadership**: Served as a team leader in Tencent's graduate recruitment training and won the excellent student. Also, as the host of the central weekly meeting, able to organize and prepare materials across locations for presentations.
-              - **Self-Media Operation Capability**: Enjoy sharing, have successfully operated platforms like CSDN blog platform, personal website, WeChat Public Account, Bilibili, and accumulated a certain number of fans and high reading volume.
-              - **Interest Driven**: Possess a strong self-learning ability, dare to step out of the comfort zone, and continue to learn new domain knowledge. Received positive feedback in Tencent's performance review in the second half of 2022.
+              Comprehensive knowledge and practical experience of enterprise-level development processes, mastering the use and basic principles of a series of tool platforms including product research collaboration, version control, telemetry monitoring, pipelines, container publishing, service governance, and intelligent gateway.
+          icon: people-simple
+          icon_pack: fas
+        - name: Domain Knowledge
+          description: |2-
+              Understand the cloud-native technologies such as engineering efficiency, DevOps, container orchestration, and observability, and proficient in popular technologies such as Kubernetes and Docker.
           icon: chart-line
           icon_pack: fas
-        - name: Soft Skills
+        - name: Document Capability
           description: |2-
-              - **Document Capability**: Able to produce a variety of types of documents, including technical, schemes, meetings, etc. Proficient in using flowcharts, mind maps, and AI-assisted tools to enrich and optimize documents.
-              - **Practical Leadership**: Served as a team leader in Tencent's graduate recruitment training and won the excellent student. Also, as the host of the central weekly meeting, able to organize and prepare materials across locations for presentations.
-              - **Self-Media Operation Capability**: Enjoy sharing, have successfully operated platforms like CSDN blog platform, personal website, WeChat Public Account, Bilibili, and accumulated a certain number of fans and high reading volume.
-              - **Interest Driven**: Possess a strong self-learning ability, dare to step out of the comfort zone, and continue to learn new domain knowledge. Received positive feedback in Tencent's performance review in the second half of 2022.
-          icon: chart-line
+              Able to produce a variety of types of documents, including technical, schemes, meetings, etc. Proficient in using flowcharts, mind maps, and AI-assisted tools to enrich and optimize documents.
+          icon: file
           icon_pack: fas
-        - name: Soft Skills
+        - name: Practical Leadership
           description: |2-
-              - **Document Capability**: Able to produce a variety of types of documents, including technical, schemes, meetings, etc. Proficient in using flowcharts, mind maps, and AI-assisted tools to enrich and optimize documents.
-              - **Practical Leadership**: Served as a team leader in Tencent's graduate recruitment training and won the excellent student. Also, as the host of the central weekly meeting, able to organize and prepare materials across locations for presentations.
-              - **Self-Media Operation Capability**: Enjoy sharing, have successfully operated platforms like CSDN blog platform, personal website, WeChat Public Account, Bilibili, and accumulated a certain number of fans and high reading volume.
-              - **Interest Driven**: Possess a strong self-learning ability, dare to step out of the comfort zone, and continue to learn new domain knowledge. Received positive feedback in Tencent's performance review in the second half of 2022.
-          icon: chart-line
+              Served as a team leader in Tencent's graduate recruitment training and won the excellent student. Also, as the host of the central weekly meeting, able to organize and prepare materials across locations for presentations.
+          icon: person
           icon_pack: fas
-        - name: Soft Skills
+        - name: Self-Media Operation Capability
           description: |2-
-              - **Document Capability**: Able to produce a variety of types of documents, including technical, schemes, meetings, etc. Proficient in using flowcharts, mind maps, and AI-assisted tools to enrich and optimize documents.
-              - **Practical Leadership**: Served as a team leader in Tencent's graduate recruitment training and won the excellent student. Also, as the host of the central weekly meeting, able to organize and prepare materials across locations for presentations.
-              - **Self-Media Operation Capability**: Enjoy sharing, have successfully operated platforms like CSDN blog platform, personal website, WeChat Public Account, Bilibili, and accumulated a certain number of fans and high reading volume.
-              - **Interest Driven**: Possess a strong self-learning ability, dare to step out of the comfort zone, and continue to learn new domain knowledge. Received positive feedback in Tencent's performance review in the second half of 2022.
-          icon: chart-line
+              Enjoy sharing, have successfully operated platforms like CSDN blog platform, personal website, WeChat Public Account, Bilibili, and accumulated a certain number of fans and high reading volume.
+          icon: photo-film-music
           icon_pack: fas
-        - name: Soft Skills
+        - name: Interest Driven
           description: |2-
-              - **Document Capability**: Able to produce a variety of types of documents, including technical, schemes, meetings, etc. Proficient in using flowcharts, mind maps, and AI-assisted tools to enrich and optimize documents.
-              - **Practical Leadership**: Served as a team leader in Tencent's graduate recruitment training and won the excellent student. Also, as the host of the central weekly meeting, able to organize and prepare materials across locations for presentations.
-              - **Self-Media Operation Capability**: Enjoy sharing, have successfully operated platforms like CSDN blog platform, personal website, WeChat Public Account, Bilibili, and accumulated a certain number of fans and high reading volume.
-              - **Interest Driven**: Possess a strong self-learning ability, dare to step out of the comfort zone, and continue to learn new domain knowledge. Received positive feedback in Tencent's performance review in the second half of 2022.
-          icon: chart-line
+              Possess a strong self-learning ability, dare to step out of the comfort zone, and continue to learn new domain knowledge. Received positive feedback in Tencent's performance review in the second half of 2022.
+          icon: location-dot
           icon_pack: fas
   - block: experience
     id: works
