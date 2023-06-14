@@ -14,7 +14,7 @@ sections:
   - block: features
     id: features
     content:
-      title: ✊ My Skills
+      title: My Skills ✊ 
       items:
         - name: Computer Basics
           description: |2-
