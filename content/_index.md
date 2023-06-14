@@ -56,6 +56,14 @@ sections:
               Possess a strong self-learning ability, dare to step out of the comfort zone, and continue to learn new domain knowledge. Received positive feedback in Tencent's performance review in the second half of 2022.
           icon: location-dot
           icon_pack: fas
+  - block: markdown
+    content:
+      title: Gallery
+      subtitle: ""
+      text: |-
+        {{< gallery album="siru" >}}
+    design:
+      columns: "1"
   - block: experience
     id: works
     content:
@@ -286,14 +294,6 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  - block: markdown
-    content:
-      title: Gallery
-      subtitle: ""
-      text: |-
-        {{< gallery album="siru" >}}
-    design:
-      columns: "1"
   - block: collection
     id: featured
     content:
