@@ -41,11 +41,11 @@ sections:
       items:
         - title: Research Assistant
           company: HKUST(GZ)
-          company_url: 'https://hkust-gz.edu.cn/'
+          company_url: "https://hkust-gz.edu.cn/"
           company_logo: org-gc
           location: GuangZhou
-          date_start: '2023-05-01'
-          date_end: ''
+          date_start: "2023-05-01"
+          date_end: ""
           description: |2-
               Responsibilities include:
               * Under the guidance of Professor Liang Yuxuan **[yuxuanliang.com](http://yuxuanliang.com/)**, the main research areas include spatiotemporal data science, spatiotemporal artificial intelligence, urban computing, intelligent transportation, etc.
@@ -53,11 +53,11 @@ sections:
               * Deeply involved in the TKDE journal submission project related to air quality prediction, independently responsible for the construction of the visualization platform, improving the visualization effect of research data and research efficiency.
         - title: Backend Development Engineer
           company: Tencent(ShenZhen)
-          company_url: 'https://www.tencent.com/zh-cn'
+          company_url: "https://www.tencent.com/zh-cn"
           company_logo: org-x
           location: Shenzhen
-          date_start: '2022-07-04'
-          date_end: '2023-5-1'
+          date_start: "2022-07-04"
+          date_end: "2023-5-1"
           description: |2-
               **Fiber Team Compliance Bus Group**
               - Fiber is an orchestration management system based on IFTTT and event-driven principles. It is used to integrate online tools and interweave them to interact with each other, aiming to reduce the overall orchestration cost of the work process.
@@ -73,11 +73,11 @@ sections:
               - Responsible for the access of the VSCode client, providing remote development capabilities, and completing the corresponding container Agent and IDE plugin implementation.
         - title: Summer Intern
           company: Tencent(Beijing)
-          company_url: 'https://www.tencent.com/zh-cn'
+          company_url: "https://www.tencent.com/zh-cn"
           company_logo: org-x
           location: Beijing
-          date_start: '2021-06-25'
-          date_end: '2021-9-8'
+          date_start: "2021-06-25"
+          date_end: "2021-9-8"
           description: |2-
               **Social Background Efficiency Tool Group**
               - QQCD is a service deployment platform for the QQ team. It unifies multiple underlying cloud platforms within the company, abstracts the underlying deployment resources, supports related deployment across multiple platforms, manual/automatic deployment orchestration modes, and provides clear deployment views and process control, improving the deployment efficiency of the business.
@@ -85,11 +85,11 @@ sections:
               - Responsible for the maintenance and reconstruction of QQ's quality management platform. The outdated HTTP interface was transformed into an RPC form, and the code structure and quality were optimized. Grayscale updates, deployment, and launch were carried out.
               - Passed the internship assessment with a code rating of "A". During the internship, the code output was 11.2k. Finally, received a special offer.
     design:
-      columns: '2'
+      columns: "2"
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
+      title: "Accomplish&shy;ments"
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -100,37 +100,37 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - certificate_url: https://www.coursera.org
-          date_end: ''
-          date_start: '2021-01-25'
-          description: ''
+          date_end: ""
+          date_start: "2021-01-25"
+          description: ""
           organization: Coursera
           organization_url: https://www.coursera.org
           title: Neural Networks and Deep Learning
-          url: ''
+          url: ""
         - certificate_url: https://www.edx.org
-          date_end: ''
-          date_start: '2021-01-01'
+          date_end: ""
+          date_start: "2021-01-01"
           description: Formulated informed blockchain models, hypotheses, and use cases.
           organization: edX
           organization_url: https://www.edx.org
           title: Blockchain Fundamentals
           url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
         - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
+          date_end: "2020-12-21"
+          date_start: "2020-07-01"
+          description: ""
           organization: DataCamp
           organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
-          url: ''
+          title: "Object-Oriented Programming in R"
+          url: ""
     design:
-      columns: '2'
+      columns: "2"
   - block: collection
     id: posts
     content:
       title: Recent Posts
-      subtitle: ''
-      text: ''
+      subtitle: ""
+      text: ""
       # Choose how many pages you would like to display (0 = all pages)
       count: 5
       # Filter on criteria
@@ -151,7 +151,7 @@ sections:
     design:
       # Choose a layout view
       view: compact
-      columns: '2'
+      columns: "2"
   - block: portfolio
     id: projects
     content:
@@ -168,25 +168,25 @@ sections:
       # To remove the toolbar, delete the entire `filter_button` block.
       buttons:
         - name: All
-          tag: '*'
+          tag: "*"
         - name: Deep Learning
           tag: Deep Learning
         - name: Other
           tag: Demo
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
+      columns: "1"
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
   - block: markdown
     content:
       title: Gallery
-      subtitle: ''
+      subtitle: ""
       text: |-
         {{< gallery album="demo" >}}
     design:
-      columns: '1'
+      columns: "1"
   - block: collection
     id: featured
     content:
@@ -196,7 +196,7 @@ sections:
           - publication
         featured_only: true
     design:
-      columns: '2'
+      columns: "2"
       view: card
   - block: collection
     content:
@@ -210,7 +210,7 @@ sections:
           - publication
         exclude_featured: true
     design:
-      columns: '2'
+      columns: "2"
       view: citation
   - block: collection
     id: talks
@@ -220,13 +220,13 @@ sections:
         folders:
           - event
     design:
-      columns: '2'
+      columns: "2"
       view: compact
   - block: tag_cloud
     content:
       title: Popular Topics
     design:
-      columns: '2'
+      columns: "2"
   - block: contact
     id: contact
     content:
@@ -237,31 +237,31 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: test@example.org
       phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
+      appointment_url: "https://calendly.com"
       address:
         street: 450 Serra Mall
         city: Stanford
         region: CA
-        postcode: '94305'
+        postcode: "94305"
         country: United States
         country_code: US
       directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+        - "Monday 10:00 to 13:00"
+        - "Wednesday 09:00 to 10:00"
       contact_links:
         - icon: twitter
           icon_pack: fab
           name: DM Me
-          link: 'https://twitter.com/Twitter'
+          link: "https://twitter.com/Twitter"
         - icon: skype
           icon_pack: fab
           name: Skype Me
-          link: 'skype:echo123?call'
+          link: "skype:echo123?call"
         - icon: video
           icon_pack: fas
           name: Zoom Me
-          link: 'https://zoom.com'
+          link: "https://zoom.com"
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
@@ -273,5 +273,5 @@ sections:
           # Enable CAPTCHA challenge to reduce spam?
           captcha: false
     design:
-      columns: '2'
+      columns: "2"
 ---
