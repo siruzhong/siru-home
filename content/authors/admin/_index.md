@@ -90,7 +90,7 @@ email: ''
 highlight_name: true
 ---
 
-👋 Hi everyone, I'm siruzhong, a former Backend RD Engineer at Tencent. I started as a summer intern and eventually joined Tencent full-time for a year. During my time there, I worked on various projects related to CloudDev, EventBus, DevOps, and Engineering Efficiency 💪, focusing on developing and optimizing cloud development tools, event-driven communication systems, and improving engineering productivity.
+👋 Hi everyone, I'm siruzhong, a former Backend RD Engineer at Tencent. I started as a summer intern and eventually joined Tencent full-time for a year. During my time there, I worked on various projects related to CloudDev, EventBus, DevOps, and Engineering Efficiency, focusing on developing and optimizing cloud development tools, event-driven communication systems, and improving engineering productivity.
 
 💡 Currently, I'm a research assistant at the HKUST(GZ), where I explore spatiotemporal data science, artificial intelligence, intelligent transportation, and smart cities. It's an exciting opportunity to contribute to the advancement of knowledge in these fields.
 
