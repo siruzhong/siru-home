@@ -104,7 +104,8 @@ sections:
         - certificate_url: https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2023-06-14-040723.png
           date_end: ""
           date_start: "2023-01-01"
-          description: ""
+          description: |2-
+              This certification signifies the successful completion of the comprehensive methodology training in DevOps, Testing, Quality Build-in, Efficient Collaboration, and Efficient Operations. Furthermore, it demonstrates the achievement of passing all theoretical and practical assessments of the Engineering Literacy Improvement Program for PCG R&D personn
           organization: Tencent
           organization_url: https://www.tencent.com/zh-cn
           title: Tencent iCode Certification
@@ -112,18 +113,41 @@ sections:
         - certificate_url: https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2023-06-14-040905.png
           date_end: ""
           date_start: "2022-09-01"
-          description: ""
+          description: |2-
+              The CodeWorld project, which was a part of Tencent PCG's graduate training program, provided an opportunity for interdisciplinary teams to collaborate and deliver practical projects within a month. As a key member of the team, my responsibilities revolved around database design, formulation of comprehensive API documentation for both front-end and back-end, as well as contributing to the development of essential backend database services.
+              
+              Our team successfully developed a ToG nucleic acid detection reminder assistant as our project, aimed at assisting individuals impacted by invalid test results in planning their travels. This assistant utilized predictive analysis to estimate future test times, cross-checked regional policies, and set timely reminders for the users.
+              
+              In recognition of our accomplishments, our team was honored with the silver award, securing the second position among twelve competing teams.
           organization: Tencent
           organization_url: https://www.tencent.com/zh-cn
           title: Tencent Code World Program Silver Award
           url: ""
         - certificate_url: https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2023-06-14-040728.jpg
           date_end: ""
-          date_start: "2020-07-01"
-          description: ""
+          date_start: "2022-07-01"
+          description: |2-
+              Tencent's annual new employee Training program serves as a valuable platform that brings together individuals from diverse positions and major business groups. The program aims to seamlessly integrate recent graduates into the company's dynamic environment, fostering collaboration and camaraderie through various group activities. Despite being the youngest participant, I had the privilege of taking on the role of group leader, entrusted with important responsibilities such as managing course attendance, organizing after-school activities, evaluating team performance, planning the graduation party, and more.
+              
+              Guiding a team of seven talented individuals, we dedicated ourselves to completing all assigned projects within a challenging five-day timeframe. Through our collective efforts, we achieved exceptional outcomes, which led to my recognition as an Excellent Student (ranked 6th out of 50).
+              
+              My experience as a group leader allowed me to demonstrate my strong organizational acumen, effective communication skills, and the ability to motivate and inspire team members. By coordinating our efforts and providing guidance, we achieved remarkable results. This honor as an Excellent Student is a testament to my commitment, leadership abilities, and significant contributions to the team's success during the training program.
           organization: Tencent
           organization_url: https://www.tencent.com/zh-cn
           title: Tencent Graduates Training Outstanding Student
+          url: ""
+        - certificate_url: https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2023-06-14-041954.jpg
+          date_end: ""
+          date_start: "2022-06-01"
+          description: |2-
+              The Excellent Graduation Design Award, presented by the Department of Computer and Information Technology at Hefei University of Technology, is a prestigious accolade that acknowledges exceptional achievements in the field. I am deeply honored to have been bestowed with this prestigious award in recognition of my significant contributions during my tenure as a student in the Internet of Things engineering program.
+              
+              During the program, I undertook the challenge of conceptualizing and developing a groundbreaking digital resource sharing platform. This platform represents a paradigm shift in information resource management and organization, effectively addressing the prevalent issue of information overload. By serving as a comprehensive hub for high-quality resources, it enables seamless sharing and utilization while ensuring the filtration of subpar content. Through its precision in granting access to premium resources, it significantly enhances individual resource acquisition efficiency, thus fostering productivity in learning and innovation.
+              
+              The journey I embarked upon was marked by my successful navigation through two rigorous rounds of screening, ultimately culminating in my participation in the defense and evaluation of graduation design projects at both the departmental and university levels. The recognition and accolades bestowed upon me by the esteemed judging panel further affirm the significance and excellence of my project. It is truly humbling to be one of the select few, as the Excellent Graduation Design Award is granted to only two outstanding students among a cohort of 100.
+          organization: HFUT
+          organization_url: http://www.hfut.edu.cn/
+          title: HFUT 2022 Outstanding undergraduate Graduation Project
           url: ""
     design:
       columns: "2"
