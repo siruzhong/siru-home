@@ -28,8 +28,9 @@ sections:
           icon: camera-retro
           icon_pack: fas
   - block: experience
+    id: works
     content:
-      title: Experience
+      title: Work Experience
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -52,7 +53,7 @@ sections:
               * Independently built the laboratory portal website, which includes major modules such as the homepage, publications, achievements, news, and contact us. The website can be found at 111.230.109.230 and is gradually being perfected.
               * Deeply involved in the TKDE journal submission project related to air quality prediction, independently responsible for the construction of the visualization platform, improving the visualization effect of research data and research efficiency.
         - title: Backend Development Engineer
-          company: Tencent(ShenZhen)
+          company: Tencent(SZ)
           company_url: "https://www.tencent.com/zh-cn"
           company_logo: tencent
           location: Shenzhen
@@ -72,7 +73,7 @@ sections:
               - Responsible for the multi-container architecture modification of the container base, successfully separating resource usage, significantly improving user experience, guaranteeing elastic resource utilization, and ensuring smooth development.
               - Responsible for the access of the VSCode client, providing remote development capabilities, and completing the corresponding container Agent and IDE plugin implementation.
         - title: Summer Intern
-          company: Tencent(Beijing)
+          company: Tencent(BJ)
           company_url: "https://www.tencent.com/zh-cn"
           company_logo: tencent
           location: Beijing
@@ -87,6 +88,7 @@ sections:
     design:
       columns: "1"
   - block: accomplishments
+    id: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: "Accomplish&shy;ments"
