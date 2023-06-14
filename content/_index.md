@@ -42,7 +42,7 @@ sections:
         - title: Research Assistant
           company: HKUST(GZ)
           company_url: "https://hkust-gz.edu.cn/"
-          company_logo: org-gc
+          company_logo: hkust(gz)
           location: GuangZhou
           date_start: "2023-05-01"
           date_end: ""
@@ -54,10 +54,10 @@ sections:
         - title: Backend Development Engineer
           company: Tencent(ShenZhen)
           company_url: "https://www.tencent.com/zh-cn"
-          company_logo: org-x
+          company_logo: tencent
           location: Shenzhen
           date_start: "2022-07-04"
-          date_end: "2023-5-1"
+          date_end: "2023-05-01"
           description: |2-
               **Fiber Team Compliance Bus Group**
               - Fiber is an orchestration management system based on IFTTT and event-driven principles. It is used to integrate online tools and interweave them to interact with each other, aiming to reduce the overall orchestration cost of the work process.
@@ -74,10 +74,10 @@ sections:
         - title: Summer Intern
           company: Tencent(Beijing)
           company_url: "https://www.tencent.com/zh-cn"
-          company_logo: org-x
+          company_logo: tencent
           location: Beijing
           date_start: "2021-06-25"
-          date_end: "2021-9-8"
+          date_end: "2021-09-08"
           description: |2-
               **Social Background Efficiency Tool Group**
               - QQCD is a service deployment platform for the QQ team. It unifies multiple underlying cloud platforms within the company, abstracts the underlying deployment resources, supports related deployment across multiple platforms, manual/automatic deployment orchestration modes, and provides clear deployment views and process control, improving the deployment efficiency of the business.
