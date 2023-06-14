@@ -18,7 +18,7 @@ role: Research Assistant in HKUST(GZ)
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: HKUST(GZ)
+  - name: 香港科技大学(广州)
     url: https://hkust-gz.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
@@ -64,7 +64,7 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/siruzhong
-  - icon: blog
+  - icon: blogger
     icon_pack: fab
     link: https://bareth.blog.csdn.net/
   - icon: linkedin
