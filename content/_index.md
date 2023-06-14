@@ -39,27 +39,51 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
+        - title: Research Assistant
+          company: HKUST(GZ)
+          company_url: 'https://hkust-gz.edu.cn/'
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          location: GuangZhou
+          date_start: '2023-05-01'
           date_end: ''
           description: |2-
               Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
+              * Under the guidance of Professor Liang Yuxuan **[yuxuanliang.com](http://yuxuanliang.com/)**, the main research areas include spatiotemporal data science, spatiotemporal artificial intelligence, urban computing, intelligent transportation, etc.
+              * Independently built the laboratory portal website, which includes major modules such as the homepage, publications, achievements, news, and contact us. The website can be found at 111.230.109.230 and is gradually being perfected.
+              * Deeply involved in the TKDE journal submission project related to air quality prediction, independently responsible for the construction of the visualization platform, improving the visualization effect of research data and research efficiency.
+        - title: Backend Development Engineer
+          company: Tencent(ShenZhen)
+          company_url: 'https://www.tencent.com/zh-cn'
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Shenzhen
+          date_start: '2022-07-04'
+          date_end: '2023-5-1'
+          description: |2-
+              **Fiber Team Compliance Bus Group**
+              - Fiber is an orchestration management system based on IFTTT and event-driven principles. It is used to integrate online tools and interweave them to interact with each other, aiming to reduce the overall orchestration cost of the work process.
+              - Independently responsible for designing and developing the DSL related to business processes, it was successfully implemented in various business lines (including QQ, News, Video, and App Treasure), significantly improving the overall efficiency of the workflow.
+              - In conjunction with the frequent change operation and maintenance scenarios of the TEG cloud architecture platform department, it participated in the design of a unified compliance event bus and event model management that can connect all online operation and maintenance components.
+              - Responsible for the basic capabilities and management end capabilities of the event bus, established the standardization process of CI/CD events, provided the definition and legality verification capability of the event schema, and integrated it into the visual management of the management end, helping to establish a standardized data system to achieve advanced DevOps.
+              - Responsible for the implementation of the event bus data reporting capability and observability, the full-link statistics and alert capabilities of event data were achieved through Prometheus + Grafana.
+
+              **Cloud IDE Team Container Research and Development Group**
+              - Codespaces is a cloud-based R&D collaboration platform that is cloud-native and code-centric. It caters to software engineers and comes pre-loaded with a variety of out-of-the-box integrated development environments on the cloud, allowing development anywhere, anytime, without the need to install or configure the environment.
+              - Responsible for the maintenance and optimization of R&D container Agents, which are used to provide capability support for file, process, network, and other related requirements within the container runtime.
+              - Responsible for the multi-container architecture modification of the container base, successfully separating resource usage, significantly improving user experience, guaranteeing elastic resource utilization, and ensuring smooth development.
+              - Responsible for the access of the VSCode client, providing remote development capabilities, and completing the corresponding container Agent and IDE plugin implementation.
+        - title: Summer Intern
+          company: Tencent(Beijing)
+          company_url: 'https://www.tencent.com/zh-cn'
+          company_logo: org-x
+          location: Beijing
+          date_start: '2021-06-25'
+          date_end: '2021-9-8'
+          description: |2-
+              **Social Background Efficiency Tool Group**
+              - QQCD is a service deployment platform for the QQ team. It unifies multiple underlying cloud platforms within the company, abstracts the underlying deployment resources, supports related deployment across multiple platforms, manual/automatic deployment orchestration modes, and provides clear deployment views and process control, improving the deployment efficiency of the business.
+              - Responsible for the daily development and maintenance of the QQCD platform. Common error scenarios were refactored and optimized, effectively improving the stability of platform service deployments, significantly reducing the online bug rate, and improving business deployment efficiency.
+              - Responsible for the maintenance and reconstruction of QQ's quality management platform. The outdated HTTP interface was transformed into an RPC form, and the code structure and quality were optimized. Grayscale updates, deployment, and launch were carried out.
+              - Passed the internship assessment with a code rating of "A". During the internship, the code output was 11.2k. Finally, received a special offer.
     design:
       columns: '2'
   - block: accomplishments
