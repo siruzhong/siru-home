@@ -23,13 +23,13 @@ sections:
           icon_pack: fas
         - name: Full-Stack Development
           description: |2-
-              Proficient in a variety of mainstream languages including Java, Go, Python, Shell, and familiar with front-end development technologies, including HTML, CSS, JavaScript, Vue, etc. Meanwhile, master the use and basic principles of various databases, caches, and message middleware, and capable of developing with mainstream backend/microservices frameworks. In addition, good at writing unit tests, conducting Code Review, and building CI/CD pipelines.
+              Skilled in several programming languages, such as Java, Go, Python, and Shell. Experienced in front-end development technologies, including HTML, CSS, JavaScript, and Vue. Knowledgeable in various databases, caches, and message middleware. Capable of using popular backend/microservices frameworks. Also proficient in writing unit tests, conducting Code Review, and building CI/CD pipelines.
           icon: camera-retro
           icon_pack: fas
         - name: Corporate Experience
           description: |2-
               Comprehensive knowledge and practical experience of enterprise-level development processes, mastering the use and basic principles of a series of tool platforms including product research collaboration, version control, telemetry monitoring, pipelines, container publishing, service governance, and intelligent gateway.
-          icon: people-simple
+          icon: people-arrows
           icon_pack: fas
         - name: Domain Knowledge
           description: |2-
@@ -49,7 +49,7 @@ sections:
         - name: Self-Media Operation Capability
           description: |2-
               Enjoy sharing, have successfully operated platforms like CSDN blog platform, personal website, WeChat Public Account, Bilibili, and accumulated a certain number of fans and high reading volume.
-          icon: photo-film-music
+          icon: compact-disc
           icon_pack: fas
         - name: Interest Driven
           description: |2-
