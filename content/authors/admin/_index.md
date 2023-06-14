@@ -58,15 +58,24 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  # - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+  #   icon_pack: ai
+  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/siruzhong
+  - icon: blog
+    icon_pack: fab
+    link: https://bareth.blog.csdn.net/
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/siruzhong
+    link: https://www.linkedin.com/in/siruzhong/
+  - icon: bilibili
+    icon_pack: fab
+    link: https://space.bilibili.com/449285692
+  - icon: zhihu
+    icon_pack: fab
+    link: https://www.zhihu.com/people/zhongsiru
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -81,10 +90,8 @@ email: ''
 highlight_name: true
 ---
 
-👋 Hi everyone, I'm siruzhong, a former Backend RD Engineer at Tencent. I started my journey with Tencent as a summer intern during my junior year, and after successfully completing the internship, I was offered a special full-time position. 🎉 Upon graduating from my undergraduate program, I officially joined Tencent and worked there for one year. 💼
+👋 Hi everyone, I'm siruzhong, a former Backend RD Engineer at Tencent. I started as a summer intern and eventually joined Tencent full-time for a year. During my time there, I worked on various projects related to CloudDev, EventBus, DevOps, and Engineering Efficiency 💪, focusing on developing and optimizing cloud development tools, event-driven communication systems, and improving engineering productivity.
 
-During my time at Tencent, I was involved in various projects related to CloudDev, EventBus, DevOps, and Engineering Efficiency. As a Backend RD Engineer, I focused on developing and optimizing cloud development tools, implementing efficient event-driven communication systems, and enhancing engineering productivity. 💪
+💡 Currently, I'm a research assistant at the HKUST(GZ), where I explore spatiotemporal data science, artificial intelligence, intelligent transportation, and smart cities. It's an exciting opportunity to contribute to the advancement of knowledge in these fields.
 
-Currently, I am working as a research assistant at the Hong Kong University of Science and Technology. 🎓 My research is centered around the fields of spatiotemporal data science, artificial intelligence, intelligent transportation, and smart cities. Being a part of the research team at HKUST allows me to further explore these areas and contribute to the advancement of knowledge. 🌍
-
-I'm excited to continue my journey of learning and growth, and I'm looking forward to exchanging insights and knowledge with all of you here. If you have any questions or specific topics you'd like to discuss, please feel free to let me know! 🤗💡
+🤗 I'm eager to learn, grow, and share insights with all of you here. If you have any questions or specific topics you'd like to discuss, please feel free to reach out! 
