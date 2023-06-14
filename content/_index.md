@@ -103,7 +103,7 @@ sections:
       items:
         - certificate_url: https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2023-06-14-040723.png
           date_end: ""
-          date_start: "2023-01"
+          date_start: "2023-01-01"
           description: ""
           organization: Tencent
           organization_url: https://www.tencent.com/zh-cn
@@ -111,7 +111,7 @@ sections:
           url: ""
         - certificate_url: https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2023-06-14-040905.png
           date_end: ""
-          date_start: "2022-09"
+          date_start: "2022-09-01"
           description: ""
           organization: Tencent
           organization_url: https://www.tencent.com/zh-cn
@@ -119,7 +119,7 @@ sections:
           url: ""
         - certificate_url: https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2023-06-14-040728.jpg
           date_end: ""
-          date_start: "2020-07"
+          date_start: "2020-07-01"
           description: ""
           organization: Tencent
           organization_url: https://www.tencent.com/zh-cn
