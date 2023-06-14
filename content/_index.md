@@ -47,7 +47,7 @@ sections:
           date_start: "2023-05-01"
           date_end: ""
           description: |2-
-              Responsibilities include:
+              **Responsibilities include**:
               * Under the guidance of Professor Liang Yuxuan **[yuxuanliang.com](http://yuxuanliang.com/)**, the main research areas include spatiotemporal data science, spatiotemporal artificial intelligence, urban computing, intelligent transportation, etc.
               * Independently built the laboratory portal website, which includes major modules such as the homepage, publications, achievements, news, and contact us. The website can be found at 111.230.109.230 and is gradually being perfected.
               * Deeply involved in the TKDE journal submission project related to air quality prediction, independently responsible for the construction of the visualization platform, improving the visualization effect of research data and research efficiency.
@@ -85,7 +85,7 @@ sections:
               - Responsible for the maintenance and reconstruction of QQ's quality management platform. The outdated HTTP interface was transformed into an RPC form, and the code structure and quality were optimized. Grayscale updates, deployment, and launch were carried out.
               - Passed the internship assessment with a code rating of "A". During the internship, the code output was 11.2k. Finally, received a special offer.
     design:
-      columns: "2"
+      columns: "1"
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
