@@ -235,12 +235,12 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        You can send me email here!
+        You can send an email to me or add me on wechat!
       # Contact (add or remove contact options as necessary)
       email: bareth@qq.com
       contact_links:
         - icon: weixin
-          icon_pack: fa
+          icon_pack: fab
           name: Discuss on wechat
           link: "https://siruzhong-1305674339.cos.ap-hongkong.myqcloud.com/2023-06-14-032135.png"
       # Automatically link email and phone or display as text?
