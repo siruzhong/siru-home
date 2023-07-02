@@ -92,6 +92,6 @@ highlight_name: true
 
 👋 Hi everyone, I'm siruzhong, a former Backend RD Engineer at **Tencent**. I started as a summer intern and eventually joined Tencent full-time for a year. During my time there, I worked on various projects related to <u>CloudDev</u>, <u>EventBus</u>, <u>DevOps</u>, and <u>Engineering Efficiency</u>, focusing on developing and optimizing cloud development tools, event-driven communication systems, and improving engineering productivity.
 
-💡 Currently, I'm a research assistant at the **HKUST(GZ)**, supervised by [Yuxuan Liang](http://yuxuanliang.com/), where I explore Spatio-Temporal Data Science, Artificial Intelligence, Intelligent Transportation, and Smart Cities. Our lab is called **CityMind**, we are dedicated to shaping the future of AI/DM for Spatio-Temporal Data, and you can access it at [citymind.top](http://111.230.109.230/)!
+💡 Currently, I'm a research assistant at the **HKUST(GZ)**, supervised by [Yuxuan Liang](http://yuxuanliang.com/), where I explore <u>Spatio-Temporal Data Science</u>, <u>Artificial Intelligence</u>, <u>Intelligent Transportation</u>, and <u>Smart Cities</u>. Our lab is called **CityMind**, we are dedicated to shaping the future of AI/DM for Spatio-Temporal Data, and you can access it at [citymind.top](http://111.230.109.230/)!
 
 🤗 I'm eager to learn, grow, and share insights with all of you here. If you have any questions or specific topics you'd like to discuss, please feel free to reach out! 
