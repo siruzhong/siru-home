@@ -35,10 +35,10 @@ interests:
 education:
   courses:
     - course: M.S. Data Science and Analysis
-      institution: HKUST(GZ)
+      institution: The Hong Kong University of Science and Technology (Guangzhou)
       year: 2023.9~2025.7
     - course: B.E. IoT Engineering
-      institution: HFUT
+      institution: Hefei University of Technology
       year: 2018.9~2022.7
 
 # Social/Academic Networking
