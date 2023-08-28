@@ -11,7 +11,7 @@ sections:
       title: About me
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-    - block: experience
+  - block: experience
     id: works
     content:
       title: 💻 Work Experience
@@ -71,7 +71,7 @@ sections:
               - Passed the internship assessment with a code rating of "A". During the internship, the code output was 11.2k. Finally, received a special offer.
     design:
       columns: "1"
-    - block: features
+  - block: features
     id: features
     content:
       title: My Skills ✊ 
@@ -124,7 +124,6 @@ sections:
         {{< gallery album="siru" >}}
     design:
       columns: "1"
-
   - block: accomplishments
     id: 🏅 accomplishments
     content:
