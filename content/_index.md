@@ -11,60 +11,7 @@ sections:
       title: About me
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: features
-    id: features
-    content:
-      title: My Skills ✊ 
-      items:
-        - name: Computer Basics
-          description: |2-
-              Proficient in the basic knowledge of computer science, including Linux operating system, computer network, data structure, operating system, database, and other fields.
-          icon: computer
-          icon_pack: fas
-        - name: Full-Stack Development
-          description: |2-
-              Skilled in several programming languages, such as Java, Go, Python, and Shell. Experienced in front-end development technologies, including HTML, CSS, JavaScript, and Vue. Knowledgeable in various databases, caches, and message middleware. Capable of using popular backend/microservices frameworks. Also proficient in writing unit tests, conducting Code Review, and building CI/CD pipelines.
-          icon: camera-retro
-          icon_pack: fas
-        - name: Corporate Experience
-          description: |2-
-              Comprehensive knowledge and practical experience of enterprise-level development processes, mastering the use and basic principles of a series of tool platforms including product research collaboration, version control, telemetry monitoring, pipelines, container publishing, service governance, and intelligent gateway.
-          icon: people-arrows
-          icon_pack: fas
-        - name: Domain Knowledge
-          description: |2-
-              Understand the cloud-native technologies such as engineering efficiency, DevOps, container orchestration, and observability, and proficient in popular technologies such as Kubernetes and Docker.
-          icon: chart-line
-          icon_pack: fas
-        - name: Document Capability
-          description: |2-
-              Able to produce a variety of types of documents, including technical, schemes, meetings, etc. Proficient in using flowcharts, mind maps, and AI-assisted tools to enrich and optimize documents.
-          icon: file
-          icon_pack: fas
-        - name: Practical Leadership
-          description: |2-
-              Served as a team leader in Tencent's graduate recruitment training and won the excellent student. Also, as the host of the central weekly meeting, able to organize and prepare materials across locations for presentations.
-          icon: person
-          icon_pack: fas
-        - name: Self-Media Operation Capability
-          description: |2-
-              Enjoy sharing, have successfully operated platforms like CSDN blog platform, personal website, WeChat Public Account, Bilibili, and accumulated a certain number of fans and high reading volume.
-          icon: compact-disc
-          icon_pack: fas
-        - name: Interest Driven
-          description: |2-
-              Possess a strong self-learning ability, dare to step out of the comfort zone, and continue to learn new domain knowledge. Received positive feedback in Tencent's performance review in the second half of 2022.
-          icon: location-dot
-          icon_pack: fas
-  - block: markdown
-    content:
-      title: 🏖️ Gallery
-      subtitle: ""
-      text: |-
-        {{< gallery album="siru" >}}
-    design:
-      columns: "1"
-  - block: experience
+    - block: experience
     id: works
     content:
       title: 💻 Work Experience
@@ -124,6 +71,60 @@ sections:
               - Passed the internship assessment with a code rating of "A". During the internship, the code output was 11.2k. Finally, received a special offer.
     design:
       columns: "1"
+    - block: features
+    id: features
+    content:
+      title: My Skills ✊ 
+      items:
+        - name: Computer Basics
+          description: |2-
+              Proficient in the basic knowledge of computer science, including Linux operating system, computer network, data structure, operating system, database, and other fields.
+          icon: computer
+          icon_pack: fas
+        - name: Full-Stack Development
+          description: |2-
+              Skilled in several programming languages, such as Java, Go, Python, and Shell. Experienced in front-end development technologies, including HTML, CSS, JavaScript, and Vue. Knowledgeable in various databases, caches, and message middleware. Capable of using popular backend/microservices frameworks. Also proficient in writing unit tests, conducting Code Review, and building CI/CD pipelines.
+          icon: camera-retro
+          icon_pack: fas
+        - name: Corporate Experience
+          description: |2-
+              Comprehensive knowledge and practical experience of enterprise-level development processes, mastering the use and basic principles of a series of tool platforms including product research collaboration, version control, telemetry monitoring, pipelines, container publishing, service governance, and intelligent gateway.
+          icon: people-arrows
+          icon_pack: fas
+        - name: Domain Knowledge
+          description: |2-
+              Understand the cloud-native technologies such as engineering efficiency, DevOps, container orchestration, and observability, and proficient in popular technologies such as Kubernetes and Docker.
+          icon: chart-line
+          icon_pack: fas
+        - name: Document Capability
+          description: |2-
+              Able to produce a variety of types of documents, including technical, schemes, meetings, etc. Proficient in using flowcharts, mind maps, and AI-assisted tools to enrich and optimize documents.
+          icon: file
+          icon_pack: fas
+        - name: Practical Leadership
+          description: |2-
+              Served as a team leader in Tencent's graduate recruitment training and won the excellent student. Also, as the host of the central weekly meeting, able to organize and prepare materials across locations for presentations.
+          icon: person
+          icon_pack: fas
+        - name: Self-Media Operation Capability
+          description: |2-
+              Enjoy sharing, have successfully operated platforms like CSDN blog platform, personal website, WeChat Public Account, Bilibili, and accumulated a certain number of fans and high reading volume.
+          icon: compact-disc
+          icon_pack: fas
+        - name: Interest Driven
+          description: |2-
+              Possess a strong self-learning ability, dare to step out of the comfort zone, and continue to learn new domain knowledge. Received positive feedback in Tencent's performance review in the second half of 2022.
+          icon: location-dot
+          icon_pack: fas
+  - block: markdown
+    content:
+      title: 🏖️ Gallery
+      subtitle: ""
+      text: |-
+        {{< gallery album="siru" >}}
+    design:
+      columns: "1"
+
   - block: accomplishments
     id: 🏅 accomplishments
     content:
