@@ -121,7 +121,7 @@ sections:
       title: 🏖️ Gallery
       subtitle: ""
       text: |-
-        {{< gallery album="siru" >}}
+        {{< gallery album="demo" >}}
     design:
       columns: "1"
   - block: accomplishments
