@@ -74,7 +74,7 @@ sections:
   - block: features
     id: features
     content:
-      title: My Skills ✊ 
+      title: ✊ My Skills
       items:
         - name: Computer Basics
           description: |2-
@@ -116,19 +116,19 @@ sections:
               Possess a strong self-learning ability, dare to step out of the comfort zone, and continue to learn new domain knowledge. Received positive feedback in Tencent's performance review in the second half of 2022.
           icon: location-dot
           icon_pack: fas
-  - block: markdown
-    content:
-      title: 🏖️ Gallery
-      subtitle: ""
-      text: |-
-        {{< gallery album="demo" >}}
-    design:
-      columns: "1"
+  # - block: markdown
+  #   content:
+  #     title: 🏖️ Gallery
+  #     subtitle: ""
+  #     text: |-
+  #       {{< gallery album="demo" >}}
+  #   design:
+  #     columns: "1"
   - block: accomplishments
-    id: 🏅 accomplishments
+    id: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: Accomplishments
+      title: 🏅 Accomplishments
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -267,33 +267,33 @@ sections:
   #     # Choose a layout view
   #     view: compact
   #     columns: "2"
-  - block: portfolio
-    id: projects
-    content:
-      title: Projects
-      filters:
-        folders:
-          - project
-      # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-      default_button_index: 0
-      # Filter toolbar (optional).
-      # Add or remove as many filters (`filter_button` instances) as you like.
-      # To show all items, set `tag` to "*".
-      # To filter by a specific tag, set `tag` to an existing tag name.
-      # To remove the toolbar, delete the entire `filter_button` block.
-      buttons:
-        - name: All
-          tag: "*"
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
-    design:
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: "1"
-      view: showcase
-      # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
+  # - block: portfolio
+  #   id: projects
+  #   content:
+  #     title: Projects
+  #     filters:
+  #       folders:
+  #         - project
+  #     # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
+  #     default_button_index: 0
+  #     # Filter toolbar (optional).
+  #     # Add or remove as many filters (`filter_button` instances) as you like.
+  #     # To show all items, set `tag` to "*".
+  #     # To filter by a specific tag, set `tag` to an existing tag name.
+  #     # To remove the toolbar, delete the entire `filter_button` block.
+  #     buttons:
+  #       - name: All
+  #         tag: "*"
+  #       - name: Deep Learning
+  #         tag: Deep Learning
+  #       - name: Other
+  #         tag: Demo
+  #   design:
+  #     # Choose how many columns the section has. Valid values: '1' or '2'.
+  #     columns: "1"
+  #     view: showcase
+  #     # For Showcase view, flip alternate rows?
+  #     flip_alt_rows: false
   # - block: collection
   #   id: featured
   #   content:
@@ -329,11 +329,11 @@ sections:
   #   design:
   #     columns: "2"
   #     view: compact
-  - block: tag_cloud
-    content:
-      title: Popular Topics
-    design:
-      columns: "2"
+  # - block: tag_cloud
+  #   content:
+  #     title: Popular Topics
+  #   design:
+  #     columns: "2"
   - block: contact
     id: contact
     content:
@@ -342,7 +342,7 @@ sections:
       text: |-
         You can send an email to me or add me on wechat!
       # Contact (add or remove contact options as necessary)
-      email: bareth@qq.com
+      email: szhong691@connect.hkust-gz.edu.cn
       contact_links:
         - icon: weixin
           icon_pack: fab
