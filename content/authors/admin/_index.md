@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Research Assistant in HKUST(GZ)
+role: Mphil & Software Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -26,26 +26,17 @@ bio: My research interests include Spatiotemporal data science and artificial in
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Data Science
-  - Cloud Native
-  - Distributed Technology
-  - Web Development
-  - DataBase
+  - Data Science & Artificial Intelligence
+  - Cloud Native & Distributed Technology
+  - Web Development & DataBase
   - Software & Tools
 
 # Education to show in About widget
 education:
   courses:
-    - course: Research Assistant
+    - course: M.S. Data Science and Analysis
       institution: HKUST(GZ)
-      year: 2022.5~today
-    - course: RD Engineer
-      institution: Tencent(SZ)
-      year: 2022.7~2023.5
-    - course: Summer Intern
-      institution: Tencent(BJ)
-      year: 2021.6~2022.9
+      year: 2023.9~2025.7
     - course: B.E. IoT Engineering
       institution: HFUT
       year: 2018.9~2022.7
@@ -57,7 +48,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: "/#contact"
   # - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
   #   icon_pack: ai
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -84,15 +75,14 @@ social:
     link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-👋 Hi everyone, I'm siruzhong, currently an **MPhil** student at **HKUST(GZ)**, supervised by [Yuxuan Liang](http://yuxuanliang.com/), where I explore Spatio-Temporal Data Science, Artificial Intelligence, Intelligent Transportation, and Smart Cities. Our lab is called CityMind, we are dedicated to shaping the future of AI/DM for Spatio-Temporal Data, and you can access it at [citymind.top](https://citymind.top)! 
-
+👋 Hi everyone, I'm siruzhong, currently an **MPhil** student at **HKUST(GZ)**, supervised by [Yuxuan Liang](http://yuxuanliang.com/), where I explore Spatio-Temporal Data Science, Artificial Intelligence, Intelligent Transportation, and Smart Cities. Our lab is called CityMind, we are dedicated to shaping the future of AI/DM for Spatio-Temporal Data, and you can access it at [citymind.top](https://citymind.top)!
 
 Before that, I am a **Background R&D Engineer**. I started as a summer intern and eventually joined Tencent full-time for a year. During my time there, I worked on various projects related to <u>CloudDev</u>, <u>EventBus</u>, <u>DevOps</u>, and <u>Engineering Efficiency</u>, focusing on developing and optimizing cloud development tools, event-driven communication systems, and improving engineering productivity.
 
-🤗 I'm eager to learn, grow, and share insights with all of you here. If you have any questions or specific topics you'd like to discuss, please feel free to reach out! 
+🤗 I'm eager to learn, grow, and share insights with all of you here. If you have any questions or specific topics you'd like to discuss, please feel free to reach out!
