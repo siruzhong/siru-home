@@ -46,12 +46,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: "/#contact"
-  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: ai
-    link: https://scholar.google.com/citations?user=3KMb5mUAAAAJ
+  # - icon: envelope
+  #   icon_pack: fas
+  #   link: "/#contact"
   - icon: github
     icon_pack: fab
     link: https://github.com/siruzhong
@@ -61,6 +58,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/siruzhong/
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=3KMb5mUAAAAJ
   - icon: bilibili
     icon_pack: fab
     link: https://space.bilibili.com/449285692
