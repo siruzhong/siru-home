@@ -284,8 +284,10 @@ sections:
       buttons:
         - name: All
           tag: "*"
-        - name: Deep Learning
-          tag: Deep Learning
+        # - name: Deep Learning
+        #   tag: Deep Learning
+        - name: Web Development
+          tag: log-collection-system
         - name: Data Science & Analysis
           tag: HKUST-GZ-Faculty-EDA
     design:
