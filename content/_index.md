@@ -286,8 +286,6 @@ sections:
           tag: "*"
         - name: Deep Learning
           tag: Deep Learning
-        - name: Other
-          tag: Demo
         - name: Data Science & Analysis
           tag: HKUST-GZ-Faculty-EDA
     design:
