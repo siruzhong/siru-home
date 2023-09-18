@@ -288,6 +288,8 @@ sections:
           tag: Deep Learning
         - name: Other
           tag: Demo
+        - name: HKUST-GZ-Faculty-EDA
+          tag: HKUST-GZ-Faculty-EDA
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: "1"
